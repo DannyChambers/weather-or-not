@@ -6,6 +6,7 @@
 
 :root {
 	--spacing-full: 30px;
+	--spacing-double: calc(var(--spacing-full) * 2);
 	--spacing-half: calc(var(--spacing-full) / 2);
 	--spacing-quarter: calc(var(--spacing-full) / 4);
 }
